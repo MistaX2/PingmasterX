@@ -16,3 +16,5 @@ mv PingmasterX $PREFIX/bin/PingmasterX
 
 echo -e "\033[1;32mScript executed successfully \033[0m"
 echo -e "\033[1;33mType PingmasterX to run \033[0m"
+
+cd&&rm -rf PingmasterX
