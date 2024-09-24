@@ -8,8 +8,7 @@ pkg install -y wget && pkg install -y python
 pip install tqdm
 pip install ping3
 
-wget --no-check-certificate 'wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1N1aCysYcErEUXJfdtRTgNEkNYJ4G1hLI' -O PingmasterX' -O PingmasterX 
-
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1N1aCysYcErEUXJfdtRTgNEkNYJ4G1hLI' -O PingmasterX
 chmod +x PingmasterX 
 mv PingmasterX $PREFIX/bin/PingmasterX
 
